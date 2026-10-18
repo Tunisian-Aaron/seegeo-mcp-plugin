@@ -1,0 +1,16 @@
+{
+  "name": "seegeo",
+  "displayName": "SeeGeo — AI visibility audit",
+  "version": "1.0.0",
+  "description": "Audit any website for AI visibility: can ChatGPT, Claude, Gemini and Perplexity read, understand and cite it? A–F grade, ranked fixes, AI-crawler check. No account needed for the first audit.",
+  "author": {
+    "name": "SeeGeo (Navoy Technologies Inc.)",
+    "email": "info@see-geo.com",
+    "url": "https://see-geo.com"
+  },
+  "homepage": "https://see-geo.com/developers",
+  "repository": "https://github.com/Tunisian-Aaron/seegeo-mcp-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "seo", "geo", "ai-visibility", "audit", "crawlers", "robots.txt", "chatgpt", "claude", "perplexity", "marketing"],
+  "logo": "assets/logo.svg"
+}

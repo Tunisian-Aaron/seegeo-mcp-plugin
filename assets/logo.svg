@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="SeeGeo">
+  <rect x="0" y="0" width="512" height="512" rx="138" fill="#00E08A"></rect>
+  <g transform="translate(113 113) scale(2.8600)" fill="none">
+    <path d="M6 50C24 21 76 21 94 50" stroke="#0B0E14" stroke-width="8" stroke-linecap="round"></path>
+    <path d="M6 50C26 79 62 81 84 62L97 88" stroke="#0B0E14" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="48" cy="50" r="14" fill="#0B0E14"></circle>
+  </g>
+</svg>
