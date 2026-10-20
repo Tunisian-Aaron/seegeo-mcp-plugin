@@ -1,5 +1,7 @@
 # SeeGeo for Cursor — AI visibility audit
 
+[![Seegeo MCP server](https://mcprush.com/badge/seegeo-mcp/card.svg)](https://mcprush.com/to/seegeo-mcp?ref=badge)
+
 Audit any website for AI visibility from inside Cursor: can ChatGPT, Claude,
 Gemini and Perplexity read, understand and cite it? One tool call returns an
 A–F grade, six category scores and the fixes ranked by impact. A second tool
